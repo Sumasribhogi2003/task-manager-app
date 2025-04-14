@@ -1,0 +1,12 @@
+[
+  {
+    "id": "afe2a6d9-3d83-499a-8418-0afed41c8a17",
+    "title": "Reading a book",
+    "completed": true
+  },
+  {
+    "id": "600f6439-2743-4fa4-9fcb-58f1891d3576",
+    "title": "Watering the plants",
+    "completed": false
+  }
+]
